@@ -1,0 +1,6 @@
+[submodule "UBOS-template-CRUD-nr"]
+	path = UBOS-template-CRUD-nr
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-CRUD-nr.git
+[submodule "UBOS-template-CRUD-ui"]
+	path = UBOS-template-CRUD-ui
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-CRUD-ui.git
